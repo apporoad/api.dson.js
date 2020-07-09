@@ -1,0 +1,29 @@
+{
+  "name": "api.dson.js",
+  "version": "1.0.0",
+  "description": "webapi extend for dson.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/api.dson.js.git"
+  },
+  "keywords": [
+    "webapi"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/api.dson.js/issues"
+  },
+  "homepage": "https://github.com/apporoad/api.dson.js#readme",
+  "dependencies": {
+    "lisa.utils": "^2.4.0",
+    "mini.req.js": "^1.0.2"
+  },
+  "devDependencies": {
+    "dson.js": "^1.2.0"
+  }
+}
